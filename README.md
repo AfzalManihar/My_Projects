@@ -25,8 +25,8 @@
 
 | Project Link | Description |
 | ------------ | ------------| 
-| <a href="https://github.com/AfzalManihar/E-Commerce-Power-Bi-DashBoard">E-Commerce_Power_Bi_DashBoard</a><br> | "E Commerce Power BI Dashboard" The E-commerce Store Sales Analysis Project focuses on uncovering insights from sales data of an online retail store. In today’s digital era, e-commerce platforms generate massive amounts of data through customer purchases, transactions, and browsing behavior.<br><p><ul><li>Tool used🛠️: Power BI🛠</li></p>| 
-| <a href="https://github.com/AfzalManihar/PowerBi_3-Year_Sales_Analysis">3-Year_Sales_PowerBI_Dashboard</a><br> | "3 Year Sales Analysis Dashboard" The 3-Year Sales Analysis Dashboard project provides a detailed look at sales data from 2022 to 2024. Analyzing this multi-year data is key for businesses to understand long-term performance, find growth areas, and make smart strategic decisions.<ul><li>Tool used🛠️: Power BI</li></p> | 
+| <a href="https://github.com/AfzalManihar/E-Commerce-Power-Bi-DashBoard">E-Commerce_Power_Bi_DashBoard</a><br> | "E-Commerce Power BI Dashboard" The E-commerce Store Sales Analysis Project focuses on uncovering insights from sales data of an online retail store. In today’s digital era, e-commerce platforms generate massive amounts of data through customer purchases, transactions, and browsing behavior.<br><p><ul><li>Tool used🛠️: Power BI🛠</li></p>| 
+| <a href="https://github.com/AfzalManihar/PowerBi_3-Year_Sales_Analysis">3-Year_Sales_PowerBI_Dashboard</a><br> | "3-Year Sales Analysis Dashboard" The 3-Year Sales Analysis Dashboard project provides a detailed look at sales data from 2022 to 2024. Analyzing this multi-year data is key for businesses to understand long-term performance, find growth areas, and make smart strategic decisions.<ul><li>Tool used🛠️: Power BI</li></p> | 
 
 <h1><a name="tableau">Tableau</a></h1>
 
